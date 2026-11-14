@@ -1,4 +1,4 @@
-ATTENTION !!!! 
+### ATTENTION !!!! 
 ## Fichier à évaluer =  **TP2_R107_BUT_RTvp.ipynb** : version propre
 `TP2_R107_BUT_RT_ancienne_version.ipynb` : ancien fichier de travail, gardé pour l'historique du versionning et du code fait sur le coup pendant le séance de TP.
 
